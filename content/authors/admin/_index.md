@@ -56,7 +56,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=hA19KNwAAAAJ&hl=en
-- icon: github
+#- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
