@@ -14,7 +14,7 @@ role: Assistant Professor of Distributed Networking and Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name:Pervasive Systems group at the University of Twente.
+- name: Pervasive Systems group at the University of Twente.
   url: "https://www.utwente.nl/en/eemcs/ps/"
 
 # Short bio (displayed in user profile at end of posts)
