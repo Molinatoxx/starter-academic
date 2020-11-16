@@ -35,10 +35,10 @@ education:
   - course: MSc in Electrical Engineering (ITC)
     institution: Keuleuven 
     year: 2011
-    - course: MSc in Electrical Engineering (Industrial Automation)
+  - course: MSc in Electrical Engineering (Industrial Automation)
     institution: Politecnico di Milano 
     year: 2011
-  - course: BSc in Electrical Engineering
+  - course: BSc in Electrical Engineering (Power Engineering)
     institution: Politecnico di Milano
     year: 2008
 
