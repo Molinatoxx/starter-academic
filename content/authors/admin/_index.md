@@ -29,14 +29,17 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Electrical Engineering (Telecom)
+    institution: KU Leuven - Imec
+    year: 2015
+  - course: MSc in Electrical Engineering (ITC)
+    institution: Keuleuven 
+    year: 2011
+    - course: MSc in Electrical Engineering (Industrial Automation)
+    institution: Politecnico di Milano 
+    year: 2011
+  - course: BSc in Electrical Engineering
+    institution: Politecnico di Milano
     year: 2008
 
 # Social/Academic Networking
@@ -47,15 +50,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=hA19KNwAAAAJ&hl=en
-  # - icon: github
-  # icon_pack: fab
-  # link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
