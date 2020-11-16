@@ -18,12 +18,14 @@ organizations:
   url: "https://www.utwente.nl/en/eemcs/ps/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests distributed intelligence, mobile computing, autonomous multi-agent systems and socially responsible engineering.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- AI for Wireless and Wireless for AI
+- Distributed (Reinforcement) Learning
+- Multi-layer multi-agent systems
+- Complex Communication Networks
+- Durable design
 
 education:
   courses:
