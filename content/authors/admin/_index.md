@@ -10,7 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Distributed Networking and Intelligence
+# role: Assistant Professor of Distributed Networking and Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
