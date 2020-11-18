@@ -79,4 +79,4 @@ user_groups:
 - Visitors
 ---
 
-Alessandro Chiumento is assistant professor at the Prevasive Systems group at the University of Twente. His research interests include distributed intelligence over networked systems, mobile computing, autonomous multi-agent systems and socially responsible engineering. He is aprticualry interested in bulind extremely flexible, self-configurable and adaptable, wireless networks for communication systems able to adapt to stringent and conflicting objectives in terms of user satisfaction, configurability and durability.
+I am an assistant professor at the Prevasive Systems group at the University of Twente. My research interests include distributed intelligence over networked systems, mobile computing, autonomous multi-agent systems and socially responsible engineering. I am particularly interested in building extremely flexible, self-configurable and adaptable, wireless networks for communication systems able to adapt to stringent and conflicting objectives in terms of user satisfaction, configurability and durability.
