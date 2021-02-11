@@ -20,19 +20,46 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Assistant Professor"
   company = "University of Twente."
-  company_url = ""
+  company_url = "https://www.utwente.nl/"
   location = "Enschede, The Netherlands"
   date_start = "2020-02-15"
   date_end = ""
   description = """
   
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "MSCA Research Fellow"
+  company = "Trinity College Dublin"
+  company_url = "www.tcd.ie"
+  location = "Dublin, Ireland"
+  date_start = "2018-07-01"
+  date_end = "2020-02-14"
+  description = """"""
+
+[[experience]]
+  title = "MSCA Research Fellow"
+  company = "Trinity College Dublin"
+  company_url = "www.tcd.ie"
+  location = "Dublin, Ireland"
+  date_start = "2018-07-01"
+  date_end = "2020-02-14"
+  description = """"""
+  
+[[experience]]
+  title = "MSCA Research Fellow"
+  company = "Trinity College Dublin"
+  company_url = "www.tcd.ie"
+  location = "Dublin, Ireland"
+  date_start = "2018-07-01"
+  date_end = "2020-02-14"
+  description = """"""
+  
+[[experience]]
+  title = "MSCA Research Fellow"
+  company = "Trinity College Dublin"
+  company_url = "www.tcd.ie"
+  location = "Dublin, Ireland"
+  date_start = "2018-07-01"
+  date_end = "2020-02-14"
+  description = """"""
 
 +++
