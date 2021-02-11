@@ -34,7 +34,7 @@ education:
     institution: KU Leuven - Imec
     year: 2015
   - course: MSc in Electrical Engineering (ITC)
-    institution: Keuleuven 
+    institution: KU Leuven 
     year: 2011
   - course: MSc in Electrical Engineering (Industrial Automation)
     institution: Politecnico di Milano 
