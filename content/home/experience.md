@@ -21,17 +21,11 @@ date_format = "Jan 2006"
   title = "Assistant Professor"
   company = "University of Twente."
   company_url = ""
-  location = "Drienerlolaan 5, 7522 NB Enschede, The Netherlands"
+  location = "Enschede, The Netherlands"
   date_start = "2020-02-15"
   date_end = ""
   description = """
-  # Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
-
 [[experience]]
   title = "Professor"
   company = "University X"
