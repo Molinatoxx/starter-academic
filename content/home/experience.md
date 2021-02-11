@@ -28,38 +28,29 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "MSCA Research Fellow"
-  company = "Trinity College Dublin"
-  company_url = "www.tcd.ie"
+  company = "CONNECT CENTRE @ Trinity College Dublin"
+  company_url = "https://connectcentre.ie/"
   location = "Dublin, Ireland"
   date_start = "2018-07-01"
   date_end = "2020-02-14"
   description = """"""
 
 [[experience]]
-  title = "MSCA Research Fellow"
-  company = "Trinity College Dublin"
-  company_url = "www.tcd.ie"
-  location = "Dublin, Ireland"
-  date_start = "2018-07-01"
-  date_end = "2020-02-14"
+  title = "Postdoctoral Researcher"
+  company = "Telemic - KU Leuven"
+  company_url = "https://www.esat.kuleuven.be/telemic/research/NetworkedSystems"
+  location = "Leuven, Belgium"
+  date_start = "2015-10-10"
+  date_end = "2018-06-30"
   description = """"""
   
 [[experience]]
-  title = "MSCA Research Fellow"
-  company = "Trinity College Dublin"
-  company_url = "www.tcd.ie"
-  location = "Dublin, Ireland"
-  date_start = "2018-07-01"
-  date_end = "2020-02-14"
+  title = "PhD student"
+  company = "imec"
+  company_url = "https://www.imec.be/nl"
+  location = "Leuven, Belgium"
+  date_start = "2011-09-01"
+  date_end = "2015-10-09"
   description = """"""
   
-[[experience]]
-  title = "MSCA Research Fellow"
-  company = "Trinity College Dublin"
-  company_url = "www.tcd.ie"
-  location = "Dublin, Ireland"
-  date_start = "2018-07-01"
-  date_end = "2020-02-14"
-  description = """"""
-
 +++
