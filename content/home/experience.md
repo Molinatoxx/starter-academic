@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Enschede, The Netherlands"
   date_start = "2020-02-15"
   date_end = ""
-  description = """
+  description = """"""
   
 [[experience]]
   title = "MSCA Research Fellow"
