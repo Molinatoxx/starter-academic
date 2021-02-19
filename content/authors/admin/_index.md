@@ -57,6 +57,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=hA19KNwAAAAJ&hl=en
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/alessandro-chiumento-532a8a80/
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
