@@ -41,13 +41,6 @@ publication: '*2012 19th IEEE Symposium on Communications and Vehicular Technolo
 
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/document/6399400"
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
+url_pdf: 'https://ieeexplore.ieee.org/document/6399400'
+
 ---
