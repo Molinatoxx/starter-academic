@@ -38,7 +38,7 @@ publication_types:
 abstract: ''
 publication: '*2012 19th IEEE Symposium on Communications and Vehicular Technology
   in the Benelux (SCVT)*'
----
+
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/document/6399400"
@@ -50,3 +50,4 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
+---
