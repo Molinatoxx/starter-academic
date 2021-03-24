@@ -1,5 +1,6 @@
 ---
 title: Wireless Days deadline is almost here
+subtitle: Wireless Symposium
 date: 2021-03-24T09:08:24.597Z
 draft: false
 featured: false
