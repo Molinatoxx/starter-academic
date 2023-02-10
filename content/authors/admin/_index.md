@@ -83,3 +83,5 @@ user_groups:
 ---
 
 I am an assistant professor at the Pervasive Systems group at the University of Twente. My research interests include distributed intelligence over networked systems, mobile computing, autonomous multi-agent systems and socially responsible engineering. I am particularly interested in building extremely flexible, self-configurable and adaptable, wireless networks for communication systems able to adapt to stringent and conflicting objectives in terms of user satisfaction, configurability and durability.
+
+I am always open to collaborations and interesting chats. We have periodic open vacancies (check them out at the [UT vacancies page](https://utwentecareers.nl/en/vacancies/?type=WP&category=PR&page=1) and please have a look below for interesting research ideas. We are also very happy to welcome visiting Master and PhD students.
